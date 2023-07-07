@@ -107,6 +107,7 @@ export const PROJECTS = [
       "Contributed to actionable recommendations resulting in enhanced customer satisfaction and optimized marketing strategies.",
       "Finding total profit through Premium Customers.",
       "Identifing Best Food as per restaurent and apply some discount and coupon codes on less selling items",
+      "Provide 10% Zomato Credits for users with Zomato Gold subscription",
     ],
   },
   {
@@ -137,7 +138,7 @@ export const PROJECTS = [
     url: "https://github.com/sourabh-hodage/by-using-K-Means-Music-Recommendation-System-on-Spotif-",
     github:
       "https://github.com/sourabh-hodage/by-using-K-Means-Music-Recommendation-System-on-Spotif-",
-    date: "January 2023",
+    date: "March 2023",
     technologies: [
       "Python",
       "Machine Learning",
