@@ -2,7 +2,7 @@ import { PROJECTS } from "../config/Config"
 
 export const Projects = () => {
     return (
-        <section className="sect border-b-4 first:mt-0">
+        <section className="sect first:mt-0">
             <div className="break-inside-avoid">
                 {/* To keep in the same column */}
                 <h2 className="mb-2 text-lg font-bold tracking-widest text-gray-700 print:font-normal">

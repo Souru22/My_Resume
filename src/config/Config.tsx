@@ -57,7 +57,6 @@ export const EXPERIENCE = [
     company: "Technorrithm Engineering Pvt.Ltd",
     bullets: [
       "Designing of Bulk Milk Cooler",
-      "Analysis Field in Products",
       "Business related visualizations",
       "Finding Thermodynamic Conditions applied on it.",
       "Preparing a standard Design which can affordable for customers as well as Small Scale Industries",
@@ -104,7 +103,6 @@ export const PROJECTS = [
     ],
     specs: [
       "Applied advanced SQL queries and joins to analyze key metrics and trends in customer ratings, revenue growth, and user engagement.",
-      "Contributed to actionable recommendations resulting in enhanced customer satisfaction and optimized marketing strategies.",
       "Finding total profit through Premium Customers.",
       "Identifing Best Food as per restaurent and apply some discount and coupon codes on less selling items",
       "Provide 10% Zomato Credits for users with Zomato Gold subscription",
@@ -128,7 +126,6 @@ export const PROJECTS = [
     specs: [
       "By using Random Forest (Classification) Model",
       "Study of Churn Data for prediction of customer",
-      "In this project I have worked on Churn Data for predicting that customers will churn or not",
       "Churn status is classified as Yes or No",
       "I worked on this data to find out what are factors affecting the status for the customers to churn the company",
     ],
